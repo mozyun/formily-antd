@@ -22,7 +22,12 @@
 
 ```tsx
 import React from 'react'
-import { Select, FormItem, FormButtonGroup, Submit } from '@formily/antd-v5'
+import {
+  Select,
+  FormItem,
+  FormButtonGroup,
+  Submit,
+} from '@mozhou-tech/formily-adaptor-mo'
 import { createForm } from '@formily/core'
 import { FormProvider, createSchemaField } from '@formily/react'
 import { action } from '@formily/reactive'

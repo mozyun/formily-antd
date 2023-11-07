@@ -3,7 +3,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/formilyjs/antd.git"
+    "url": "git+https://github.com/mozhou-tech/formily-adaptor-mo.git"
   },
   "workspaces": [
     "packages/*"

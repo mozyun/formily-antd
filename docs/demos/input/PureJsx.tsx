@@ -1,5 +1,10 @@
 import React from 'react'
-import { Input, FormItem, FormButtonGroup, Submit } from '@formily/antd-v5'
+import {
+  Input,
+  FormItem,
+  FormButtonGroup,
+  Submit,
+} from '@mozhou-tech/formily-adaptor-mo'
 import { createForm } from '@formily/core'
 import { FormProvider, Field } from '@formily/react'
 

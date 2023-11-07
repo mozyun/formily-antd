@@ -110,7 +110,7 @@
 
 ### :tada: Enhancements
 
-1. [feat: chnage to @formily/antd-v5](https://github.com/formilyjs/antd/commit/8e69136) :point_right: ( [yiyunwan](https://github.com/yiyunwan) )
+1. [feat: chnage to @mozhou-tech/formily-adaptor-mo](https://github.com/formilyjs/antd/commit/8e69136) :point_right: ( [yiyunwan](https://github.com/yiyunwan) )
 
 1. [feat: antd v5 (#2)](https://github.com/formilyjs/antd/commit/a3d382f) :point_right: ( [yiyunwan](https://github.com/yiyunwan) )
 

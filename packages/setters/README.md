@@ -1,9 +1,9 @@
-# @formily/antd-v5-setters
+# @mozhou-tech/formily-adaptor-mo-setters
 
 > Formily Designable Component Adaptor
 
 ## Install
 
 ```bash
-npm install @formily/antd-v5-setters --save
+npm install @mozhou-tech/formily-adaptor-mo-setters --save
 ```

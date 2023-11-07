@@ -1,9 +1,9 @@
-# @formily/antd-v5-prototypes
+# @mozhou-tech/formily-adaptor-mo-prototypes
 
 > Formily Designable Component Adaptor
 
 ## Install
 
 ```bash
-npm install @formily/antd-v5-prototypes --save
+npm install @mozhou-tech/formily-adaptor-mo-prototypes --save
 ```

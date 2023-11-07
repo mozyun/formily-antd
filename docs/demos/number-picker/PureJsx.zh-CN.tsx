@@ -4,7 +4,7 @@ import {
   FormItem,
   FormButtonGroup,
   Submit,
-} from '@formily/antd-v5'
+} from '@mozhou-tech/formily-adaptor-mo'
 import { createForm } from '@formily/core'
 import { FormProvider, Field } from '@formily/react'
 

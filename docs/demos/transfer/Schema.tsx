@@ -1,4 +1,9 @@
-import { FormButtonGroup, FormItem, Submit, Transfer } from '@formily/antd-v5'
+import {
+  FormButtonGroup,
+  FormItem,
+  Submit,
+  Transfer,
+} from '@mozhou-tech/formily-adaptor-mo'
 import { createForm } from '@formily/core'
 import { createSchemaField, FormProvider, ISchema } from '@formily/react'
 import type { TransferItem } from 'antd/es/transfer'

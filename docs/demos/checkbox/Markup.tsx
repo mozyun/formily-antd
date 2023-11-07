@@ -1,4 +1,9 @@
-import { Checkbox, FormButtonGroup, FormItem, Submit } from '@formily/antd-v5'
+import {
+  Checkbox,
+  FormButtonGroup,
+  FormItem,
+  Submit,
+} from '@mozhou-tech/formily-adaptor-mo'
 import { createForm } from '@formily/core'
 import { createSchemaField, FormProvider } from '@formily/react'
 import React from 'react'

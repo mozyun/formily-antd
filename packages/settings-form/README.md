@@ -1,9 +1,9 @@
-# @formily/antd-v5-settings-form
+# @mozhou-tech/formily-adaptor-mo-settings-form
 
 > Formily Designable Settings Form
 
 ## Install
 
 ```bash
-npm install @formily/antd-v5-settings-form --save
+npm install @mozhou-tech/formily-adaptor-mo-settings-form --save
 ```

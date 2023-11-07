@@ -13,7 +13,7 @@ import {
   FormItem,
   Input,
   FormLayout,
-} from '@formily/antd-v5'
+} from '@mozhou-tech/formily-adaptor-mo'
 import { createForm } from '@formily/core'
 import { FormProvider, createSchemaField } from '@formily/react'
 const SchemaField = createSchemaField({
@@ -106,7 +106,7 @@ import {
   FormItem,
   FormLayout,
   Input,
-} from '@formily/antd-v5'
+} from '@mozhou-tech/formily-adaptor-mo'
 import { createForm } from '@formily/core'
 import { FormProvider, createSchemaField } from '@formily/react'
 
@@ -202,7 +202,7 @@ import {
   FormItem,
   FormLayout,
   Input,
-} from '@formily/antd-v5'
+} from '@mozhou-tech/formily-adaptor-mo'
 import { createForm } from '@formily/core'
 import { FormProvider, createSchemaField } from '@formily/react'
 

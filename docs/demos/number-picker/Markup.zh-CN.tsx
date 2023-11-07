@@ -3,7 +3,7 @@ import {
   FormItem,
   NumberPicker,
   Submit,
-} from '@formily/antd-v5'
+} from '@mozhou-tech/formily-adaptor-mo'
 import { createForm } from '@formily/core'
 import { createSchemaField, FormProvider } from '@formily/react'
 import React from 'react'
