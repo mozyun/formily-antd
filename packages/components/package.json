@@ -1,6 +1,6 @@
 {
   "name": "@mozhou-tech/formily-adaptor-mo",
-  "version": "1.1.8-alpha.1",
+  "version": "1.1.8-alpha.2",
   "license": "MIT",
   "main": "lib",
   "types": "lib/index.d.ts",
