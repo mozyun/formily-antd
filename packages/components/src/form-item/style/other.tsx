@@ -5,7 +5,6 @@ export const genOtherStyle: GenerateStyle = (token) => {
   const {
     componentCls,
     colorError,
-    colorErrorBg,
     colorWarningBg,
     colorWarning,
     colorBorder,
@@ -38,6 +37,8 @@ export const genOtherStyle: GenerateStyle = (token) => {
     outline: 0,
     boxShadow: `${controlOutlineWidth} 0 ${controlOutline} ${colorPrimaryHover}`,
   })
+
+  const extraLabelHeight = controlHeightSM - 2
 
   return {
     [componentCls]: {
@@ -230,7 +231,7 @@ export const genOtherStyle: GenerateStyle = (token) => {
         '&-loose': {
           marginBottom: marginLG,
           [`&${componentCls}-feedback-has-text:not(${componentCls}-inset)`]: {
-            marginBottom: 0,
+            marginBottom: Math.max(marginLG - extraLabelHeight, 0),
           },
         },
 
@@ -429,8 +430,8 @@ export const genOtherStyle: GenerateStyle = (token) => {
 
         [`${componentCls}-help,
         ${componentCls}-extra `]: {
-          minHeight: controlHeightSM - 2,
-          lineHeight: `${controlHeightSM - 2}px`,
+          minHeight: extraLabelHeight,
+          lineHeight: `${extraLabelHeight}px`,
           color: colorTextSecondary,
         },
       },
@@ -438,7 +439,7 @@ export const genOtherStyle: GenerateStyle = (token) => {
       [`${componentCls}-help,
           ${componentCls}-extra`]: {
         clear: 'both',
-        minHeight: controlHeightSM - 2,
+        minHeight: extraLabelHeight,
         color: 'rgba(0, 0, 0, 0.45)',
         transition: 'color 0.3s cubic-bezier(0.215, 0.61, 0.355, 1)',
         paddingTop: 0,
@@ -469,7 +470,7 @@ export const genOtherStyle: GenerateStyle = (token) => {
       },
 
       [`${componentCls}-warning-help`]: {
-        color: colorSuccess,
+        color: colorWarning,
       },
 
       [`${componentCls}-success-help`]: {
@@ -527,6 +528,20 @@ export const genOtherStyle: GenerateStyle = (token) => {
       [`${antCls}-input-group ${antCls}-select,
           ${antCls}-input-group ${antCls}-cascader-picker`]: {
         width: 'auto',
+      },
+
+      '&-popover': {
+        [`${componentCls}-error-help`]: {
+          color: `${colorError}  !important`,
+        },
+
+        [`${componentCls}-warning-help`]: {
+          color: colorWarning,
+        },
+
+        [`${componentCls}-success-help`]: {
+          color: `${colorSuccess} !important`,
+        },
       },
     },
   }

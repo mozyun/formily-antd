@@ -1,16 +1,82 @@
 # Changelog
 
+## v3.0.0-alpha.2(2022-12-29)
+
+### :blush: Other Changes
+
+1. [ci: update cssinjs (#3)](https://github.com/formilyjs/antd/commit/d7825f2) :point_right: ( [yiyunwan](https://github.com/yiyunwan) )
+
+1. [ci: add tag next](https://github.com/formilyjs/antd/commit/cbbe499) :point_right: ( [yiyunwan](https://github.com/yiyunwan) )
+
+1. [ci: use codecov-action@v3](https://github.com/formilyjs/antd/commit/6f87b9e) :point_right: ( [yiyunwan](https://github.com/yiyunwan) )
+
+## v3.0.0-alpha.1(2022-12-05)
+
+### No Change Log
+
+## v1.1.7(2023-10-13)
+
+### :bug: Bug Fixes
+
+1. [fix: fix collapse and tab props error (#29)](https://github.com/formilyjs/antd/commit/be653bd) :point_right: ( [yiyunwan](https://github.com/yiyunwan) )
+
+## v1.1.6(2023-10-11)
+
+### :bug: Bug Fixes
+
+1. [fix(antd): popover style exception](https://github.com/formilyjs/antd/commit/128b1c9) :point_right: ( [yee.wang](https://github.com/yee.wang) )
+
+## v1.1.5(2023-10-11)
+
+### :bug: Bug Fixes
+
+1. [fix(antd): fix the style of feedback popover](https://github.com/formilyjs/antd/commit/311906c) :point_right: ( [yee.wang](https://github.com/yee.wang) )
+
+## v1.1.4(2023-10-11)
+
+### :bug: Bug Fixes
+
+1. [fix: the feedback popup layout style (#28)](https://github.com/formilyjs/antd/commit/68fb095) :point_right: ( [Yee](https://github.com/Yee) )
+
+## v1.1.3(2023-10-07)
+
+### :bug: Bug Fixes
+
+1. [fix: fix style position error (#27)](https://github.com/formilyjs/antd/commit/8ff04c8) :point_right: ( [yiyunwan](https://github.com/yiyunwan) )
+
+## v1.1.2(2023-09-21)
+
+### :bug: Bug Fixes
+
+1. [fix: fix table drag and style bugs (#26)](https://github.com/formilyjs/antd/commit/ac4c821) :point_right: ( [yiyunwan](https://github.com/yiyunwan) )
+
+1. [fix: del dead code](https://github.com/formilyjs/antd/commit/a2dbe1f) :point_right: ( [yiyunwan](https://github.com/yiyunwan) )
+
+## v1.1.1(2023-08-16)
+
+### :tada: Enhancements
+
+1. [feat(components): optimize the feedback margin bottom (#24)](https://github.com/formilyjs/antd/commit/9dd7104) :point_right: ( [Yee](https://github.com/Yee) )
+
+### :bug: Bug Fixes
+
+1. [fix: fix array-table dark background (#25)](https://github.com/formilyjs/antd/commit/331898a) :point_right: ( [yiyunwan](https://github.com/yiyunwan) )
+
+### :blush: Other Changes
+
+1. [chore: fix the CHANGELOG](https://github.com/formilyjs/antd/commit/1f62db0) :point_right: ( [yee.wang](https://github.com/yee.wang) )
+
 ## v1.1.0(2023-07-26)
 
 ### :tada: Enhancements
 
-1. [feat(components): fix antd vertical label style & merge the form token of antd theme (#18)](https://github.com/formilyjs/antd/commit/458da30) :point_right: ( [yee94](https://github.com/yee94) )
+1. [feat(components): fix antd vertical label style & merge the form token of antd theme (#18)](https://github.com/formilyjs/antd/commit/458da30) :point_right: ( [Yee](https://github.com/Yee) )
 
-1. [feat: support https://github.com/ant-design/antd-moment-webpack-plugin (#19)](https://github.com/formilyjs/antd/commit/e44cf8b) :point_right: ( [yee94](https://github.com/yee94) )
+1. [feat: support https://github.com/ant-design/antd-moment-webpack-plugin (#19)](https://github.com/formilyjs/antd/commit/e44cf8b) :point_right: ( [Yee](https://github.com/Yee) )
 
 ### :bug: Bug Fixes
 
-1. [fix(components): vertical label bg (#23)](https://github.com/formilyjs/antd/commit/64e9c0a) :point_right: ( [yee94](https://github.com/yee94) )
+1. [fix(components): vertical label bg (#23)](https://github.com/formilyjs/antd/commit/64e9c0a) :point_right: ( [Yee](https://github.com/Yee) )
 
 ### :blush: Other Changes
 
