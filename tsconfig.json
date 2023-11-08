@@ -17,7 +17,7 @@
     "strictNullChecks": true,
     "baseUrl": ".",
     "paths": {
-      "@mozhou-tech/formily-adaptor-mo": ["packages/components/src"]
+      "@mozyun/formily-antd": ["packages/components/src"]
     },
     "lib": ["ESNext", "DOM"]
   }

@@ -1,9 +1,4 @@
-import {
-  FormButtonGroup,
-  FormItem,
-  Radio,
-  Submit,
-} from '@mozhou-tech/formily-adaptor-mo'
+import { FormButtonGroup, FormItem, Radio, Submit } from '@mozyun/formily-antd'
 import { createForm } from '@formily/core'
 import { createSchemaField, FormProvider, ISchema } from '@formily/react'
 import React from 'react'

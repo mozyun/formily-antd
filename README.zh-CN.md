@@ -2,9 +2,9 @@
 
 <p align="center">
 <img src="https://img.alicdn.com/tfs/TB1fHhZu4D1gK0jSZFyXXciOVXa-2500-1200.png">
-<img src="https://img.shields.io/npm/dt/@mozhou-tech/formily-adaptor-mo"/>
-<img src="https://img.shields.io/npm/dm/@mozhou-tech/formily-adaptor-mo"/>
-<a href="https://www.npmjs.com/package/@mozhou-tech/formily-adaptor-mo"><img src="https://img.shields.io/npm/v/@mozhou-tech/formily-adaptor-mo.svg"></a>
+<img src="https://img.shields.io/npm/dt/@mozyun/formily-antd"/>
+<img src="https://img.shields.io/npm/dm/@mozyun/formily-antd"/>
+<a href="https://www.npmjs.com/package/@mozyun/formily-antd"><img src="https://img.shields.io/npm/v/@mozyun/formily-antd.svg"></a>
 <a href="https://codecov.io/gh/formilyjs/antd">
   <img src="https://codecov.io/gh/formilyjs/antd/branch/master/graph/badge.svg?token=3V9RU8Wh9d"/>
 </a>

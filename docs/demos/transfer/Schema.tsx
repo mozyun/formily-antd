@@ -3,7 +3,7 @@ import {
   FormItem,
   Submit,
   Transfer,
-} from '@mozhou-tech/formily-adaptor-mo'
+} from '@mozyun/formily-antd'
 import { createForm } from '@formily/core'
 import { createSchemaField, FormProvider, ISchema } from '@formily/react'
 import type { TransferItem } from 'antd/es/transfer'

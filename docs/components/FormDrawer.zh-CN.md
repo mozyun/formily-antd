@@ -14,7 +14,7 @@ import {
   Submit,
   Reset,
   FormButtonGroup,
-} from '@mozhou-tech/formily-adaptor-mo'
+} from '@mozyun/formily-antd'
 import { createSchemaField } from '@formily/react'
 import { Button } from 'antd'
 
@@ -110,7 +110,7 @@ import {
   Submit,
   Reset,
   FormButtonGroup,
-} from '@mozhou-tech/formily-adaptor-mo'
+} from '@mozyun/formily-antd'
 import { createSchemaField } from '@formily/react'
 import { Button } from 'antd'
 
@@ -206,7 +206,7 @@ import {
   Submit,
   Reset,
   FormButtonGroup,
-} from '@mozhou-tech/formily-adaptor-mo'
+} from '@mozyun/formily-antd'
 import { Field } from '@formily/react'
 import { Button } from 'antd'
 

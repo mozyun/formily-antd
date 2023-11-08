@@ -1,10 +1,5 @@
 import React from 'react'
-import {
-  Input,
-  FormItem,
-  FormButtonGroup,
-  Reset,
-} from '@mozhou-tech/formily-adaptor-mo'
+import { Input, FormItem, FormButtonGroup, Reset } from '@mozyun/formily-antd'
 import { createForm } from '@formily/core'
 import { FormProvider, createSchemaField } from '@formily/react'
 

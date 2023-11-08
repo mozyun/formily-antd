@@ -4,7 +4,7 @@ import {
   FormItem,
   FormButtonGroup,
   Submit,
-} from '@mozhou-tech/formily-adaptor-mo'
+} from '@mozyun/formily-antd'
 import { createForm, FieldDataSource, Field } from '@formily/core'
 import { FormProvider, createSchemaField } from '@formily/react'
 import { action } from '@formily/reactive'

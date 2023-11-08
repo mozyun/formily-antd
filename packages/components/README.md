@@ -1,9 +1,9 @@
-# @mozhou-tech/formily-adaptor-mo
+# @mozyun/formily-antd
 
 > Formily Component Adaptor
 
 ## Install
 
 ```bash
-npm install @mozhou-tech/formily-adaptor-mo --save
+npm install @mozyun/formily-antd --save
 ```

@@ -3,7 +3,7 @@ import {
   FormButtonGroup,
   FormItem,
   Submit,
-} from '@mozhou-tech/formily-adaptor-mo'
+} from '@mozyun/formily-antd'
 import { createForm } from '@formily/core'
 import { Field, FormProvider } from '@formily/react'
 import React from 'react'

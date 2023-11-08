@@ -3,7 +3,7 @@ import {
   FormButtonGroup,
   FormItem,
   Submit,
-} from '@mozhou-tech/formily-adaptor-mo'
+} from '@mozyun/formily-antd'
 import {
   createForm,
   Field as FieldType,

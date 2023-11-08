@@ -1,4 +1,4 @@
-import { FormGrid } from '@mozhou-tech/formily-adaptor-mo'
+import { FormGrid } from '@mozyun/formily-antd'
 import React from 'react'
 
 const { GridColumn } = FormGrid

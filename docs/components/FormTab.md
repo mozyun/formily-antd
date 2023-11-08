@@ -14,7 +14,7 @@ import {
   Input,
   FormButtonGroup,
   Submit,
-} from '@mozhou-tech/formily-adaptor-mo'
+} from '@mozyun/formily-antd'
 import { createForm } from '@formily/core'
 import { FormProvider, createSchemaField } from '@formily/react'
 import { Button } from 'antd'
@@ -115,7 +115,7 @@ import {
   Input,
   FormButtonGroup,
   Submit,
-} from '@mozhou-tech/formily-adaptor-mo'
+} from '@mozyun/formily-antd'
 import { createForm } from '@formily/core'
 import { FormProvider, createSchemaField } from '@formily/react'
 import { Button } from 'antd'

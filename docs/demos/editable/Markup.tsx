@@ -5,7 +5,7 @@ import {
   FormItem,
   Input,
   Submit,
-} from '@mozhou-tech/formily-adaptor-mo'
+} from '@mozyun/formily-antd'
 import { createForm, ObjectField } from '@formily/core'
 import { createSchemaField, FormProvider } from '@formily/react'
 import React from 'react'

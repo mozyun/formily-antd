@@ -1,9 +1,9 @@
-# @mozhou-tech/formily-adaptor-mo-settings-form
+# @mozyun/formily-antd-settings-form
 
 > Formily Designable Settings Form
 
 ## Install
 
 ```bash
-npm install @mozhou-tech/formily-adaptor-mo-settings-form --save
+npm install @mozyun/formily-antd-settings-form --save
 ```

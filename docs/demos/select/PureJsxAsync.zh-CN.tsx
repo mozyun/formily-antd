@@ -1,10 +1,5 @@
 import React from 'react'
-import {
-  Select,
-  FormItem,
-  FormButtonGroup,
-  Submit,
-} from '@mozhou-tech/formily-adaptor-mo'
+import { Select, FormItem, FormButtonGroup, Submit } from '@mozyun/formily-antd'
 import {
   createForm,
   onFieldReact,
