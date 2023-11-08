@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mozhou-tech/formily-adaptor-mo.git"
+    "url": "git+https://github.com/mozyun/formily-antd.git"
   },
   "bugs": {
     "url": "https://github.com/formilyjs/antd/issues"
