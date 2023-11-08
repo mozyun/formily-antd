@@ -9,5 +9,9 @@
       "exact": true,
       "message": "chore(release): 😊 publish %s"
     }
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   }
 }
