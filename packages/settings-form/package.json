@@ -1,6 +1,6 @@
 {
   "name": "@mozyun/formily-antd-settings-form",
-  "version": "1.1.8-alpha.5",
+  "version": "1.1.8-alpha.6",
   "license": "MIT",
   "main": "lib",
   "types": "lib/index.d.ts",
@@ -39,5 +39,6 @@
     "react": ">=16.8.0 || >=17.0.0",
     "react-dom": ">=16.8.0",
     "react-is": ">=16.8.0 || >=17.0.0"
-  }
+  },
+  "gitHead": "73e04bc5cee040bbe1676becc3b1759e02a72f9e"
 }
