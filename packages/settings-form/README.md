@@ -5,5 +5,5 @@
 ## Install
 
 ```bash
-npm install @mozyun/formily-antd-settings-form --save
+npm install @mozyun/formily-antd-settings-Form --save
 ```
