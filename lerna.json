@@ -1,7 +1,6 @@
 {
-  "version": "1.1.8-alpha.12",
+  "version": "1.1.9",
   "npmClient": "pnpm",
-  "npmClientArgs": ["--ignore-engines"],
   "command": {
     "version": {
       "forcePublish": true,
