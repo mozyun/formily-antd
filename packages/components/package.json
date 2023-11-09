@@ -22,7 +22,7 @@
     "**/*/style.js"
   ],
   "scripts": {
-    "build": "@mozyun/formily-tpl build"
+    "build": "formily-tpl build"
   },
   "repository": {
     "type": "git",
