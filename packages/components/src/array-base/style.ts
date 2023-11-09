@@ -1,4 +1,4 @@
-import { genStyleHook } from './../__builtins__'
+import { genStyleHook } from '../__builtins__'
 
 export default genStyleHook('array-base', (token) => {
   const {

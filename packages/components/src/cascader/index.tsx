@@ -4,7 +4,7 @@ import { Cascader as AntdCascader } from 'antd'
 import React from 'react'
 import { PreviewText } from '../preview-text'
 
-export const Cascader = connect(
+export const Cascader: any = connect(
   AntdCascader,
   mapProps(
     {

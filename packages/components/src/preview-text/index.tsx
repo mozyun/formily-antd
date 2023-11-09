@@ -15,7 +15,7 @@ import { Space, Tag } from 'antd'
 import type { DefaultOptionType } from 'antd/lib/cascader'
 import type { RangePickerProps as DateRangePickerProps } from 'antd/lib/date-picker'
 import cls from 'classnames'
-import React, { createContext, useContext } from 'react'
+import React, { createContext, FunctionComponent, useContext } from 'react'
 import { formatDayjsValue, usePrefixCls } from '../__builtins__'
 import useStyle from './style'
 
@@ -339,7 +339,7 @@ const InternalPreviewText: ReactFC<IPreviewTextProps> = observer(
   }
 )
 
-export const PreviewText = Object.assign(InternalPreviewText, {
+export const PreviewText: any = Object.assign(InternalPreviewText, {
   Input,
   Select,
   TreeSelect,

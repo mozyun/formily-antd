@@ -1,5 +1,5 @@
 import dayjs from 'dayjs'
-import { formatDayjsValue, dayjsable } from '../__builtins__/dayjs'
+import { formatDayjsValue, dayjsable } from '../__builtins__'
 
 test('dayjsable is usable', () => {
   expect(dayjs.isDayjs(dayjsable('2021-09-08'))).toBe(true)
