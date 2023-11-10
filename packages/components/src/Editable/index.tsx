@@ -105,7 +105,9 @@ const InternalEditable: ReactFC<IFormItemProps> = observer((props) => {
       setTimeout(() => {
         setEditable(true)
         setTimeout(() => {
-          innerRef.current?.querySelector('Input')?.focus()
+          ;(
+            innerRef.current?.querySelector('Input') as HTMLInputElement
+          ).focus()
         })
       })
     }

@@ -3,8 +3,9 @@
   "compilerOptions": {
     "outDir": "./lib",
     "paths": {
-      "@formily/*": ["packages/*"]
+      "@mozyun/*": ["packages/*"]
     },
-    "declaration": true
+    "module": "es6",
+    "declaration": false
   }
 }

@@ -2,10 +2,11 @@
   "compilerOptions": {
     "esModuleInterop": true,
     "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
     "jsx": "react",
     "module": "commonjs",
-    "target": "es5",
-    "allowJs": false,
+    "target": "es6",
+    "allowJs": true,
     "noUnusedLocals": false,
     "preserveConstEnums": true,
     "skipLibCheck": true,
